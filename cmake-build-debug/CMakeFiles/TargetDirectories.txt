@@ -1,0 +1,3 @@
+C:/Users/kurom/ProgramacionII/SFMLII/cmake-build-debug/CMakeFiles/SFMLII.dir
+C:/Users/kurom/ProgramacionII/SFMLII/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kurom/ProgramacionII/SFMLII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
